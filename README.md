@@ -1,2 +1,23 @@
 # Rule_Based_Classification
-Gezinomi is a platform that offers tourism services. In this study, according to the created segments, It is estimated how much new customers can earn on average to the company.
+
+
+BUSİNESS PROBLEM:
+
+Gezinomi is a platform that offers tourism services. Gezinomi company, level-based create new sales definitions and to create segments according to their definitions, to create new segments according to these segments how much can the customers coming to the company earn on average? wants to guess.
+
+For example:
+How much is to be determined a customer who wants to go to an All Inclusive hotel in Antalya will earn to the company during a busy period.
+
+
+VARIABLES:
+
+SaleId
+SaleDate
+CheckInDate
+Price
+ConceptName
+SaleCityName
+CInDay : Customer's Check-in date
+SaleCheckInDayDiff : Day difference between check-in and check-in date
+Season
+
